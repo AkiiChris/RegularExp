@@ -1,0 +1,12 @@
+/Users/akiichris/Projects/RegExp/RegExp/bin/Debug/netcoreapp3.1/RegExp.deps.json
+/Users/akiichris/Projects/RegExp/RegExp/bin/Debug/netcoreapp3.1/RegExp.runtimeconfig.json
+/Users/akiichris/Projects/RegExp/RegExp/bin/Debug/netcoreapp3.1/RegExp.runtimeconfig.dev.json
+/Users/akiichris/Projects/RegExp/RegExp/bin/Debug/netcoreapp3.1/RegExp.dll
+/Users/akiichris/Projects/RegExp/RegExp/bin/Debug/netcoreapp3.1/RegExp.pdb
+/Users/akiichris/Projects/RegExp/RegExp/obj/Debug/netcoreapp3.1/RegExp.csprojAssemblyReference.cache
+/Users/akiichris/Projects/RegExp/RegExp/obj/Debug/netcoreapp3.1/RegExp.AssemblyInfoInputs.cache
+/Users/akiichris/Projects/RegExp/RegExp/obj/Debug/netcoreapp3.1/RegExp.AssemblyInfo.cs
+/Users/akiichris/Projects/RegExp/RegExp/obj/Debug/netcoreapp3.1/RegExp.csproj.CoreCompileInputs.cache
+/Users/akiichris/Projects/RegExp/RegExp/obj/Debug/netcoreapp3.1/RegExp.dll
+/Users/akiichris/Projects/RegExp/RegExp/obj/Debug/netcoreapp3.1/RegExp.pdb
+/Users/akiichris/Projects/RegExp/RegExp/obj/Debug/netcoreapp3.1/RegExp.genruntimeconfig.cache
